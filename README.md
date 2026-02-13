@@ -34,7 +34,6 @@ Problem Statement
 - Knowledge about “what works well with AI” sits in individual heads instead of being shared and standardized.
 - Without structure and support, AI remains a nice demo instead of a scaled, reliable part of daily work.
 
-<br><br>
 ## Remarks
 - Find a setup HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU
 - as the instructions are simple - feel free to adapt as needed to meet your orgs needs (best: use simple logical actions for this to make sure it works properly)
