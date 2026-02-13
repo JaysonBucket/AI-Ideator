@@ -3,6 +3,8 @@
 
 Use this agent as your AI partner in crime to turn rough ideas and problems into clear, reusable prompts, workflows, and solutions. This makes our AI usage faster, more reliable, and easier to share so everyone benefits from what we learn.
 <br><br>
+To set up just copy&paste sourcecode in Agent Builder or use zip file from repository to import in Copilot Studio
+<br><br>
 <img width="102" height="102" alt="AI Ideator Agent Icon" src="https://github.com/user-attachments/assets/8e8c253b-d1e2-49a0-965c-3cb244716a2a" />
 <br>
 - AI Ideator is based on an ideation canvas framework pulled together by me
