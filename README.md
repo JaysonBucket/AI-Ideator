@@ -2,6 +2,7 @@
 
 
 Use this agent as your AI partner in crime to turn rough ideas and problems into clear, reusable prompts, workflows, and solutions. This makes our AI usage faster, more reliable, and easier to share so everyone benefits from what we learn.
+
 <br><br>
 <img width="102" height="102" alt="AI Ideator Agent Icon" src="https://github.com/user-attachments/assets/8e8c253b-d1e2-49a0-965c-3cb244716a2a" />
 <br>
@@ -33,3 +34,19 @@ Problem Statement
 - Trial‑and‑error prompt writing costs time and leads to inconsistent, hard‑to‑repeat results.
 - Knowledge about “what works well with AI” sits in individual heads instead of being shared and standardized.
 - Without structure and support, AI remains a nice demo instead of a scaled, reliable part of daily work.
+
+<br><br>
+## Remarks
+- Find a setup HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU
+- as the instructions are simple - feel free to adapt as needed to meet your orgs needs (best: use simple logical actions for this to make sure it works properly)
+- as you are going to set up a solely web grounded, declarative only agent it should work free of charge even without M365 Copilot license (no guarantees, see complementary links below, MUST be created with Agent Builder or as declarative Agent in Copilot Studio in that case)
+- the agent solely uses already available M365 Copilot Chat functionality - nothing added - nothing worked through
+
+Make a difference - set priority on accessibility - Workplace AI can help 💡
+- check out these clips on real life accessibility stories: https://www.youtube.com/playlist?list=PLtSVUgxIo6KokE3TjZBv0-blYRzAFWTFt
+- accessibility tools in M365 Copilot: https://support.microsoft.com/en-gb/topic/accessibility-tools-for-microsoft-copilot-5d106884-844b-4ce8-acfb-4d7a48dac618
+
+Issues, comments, recommondations? Let me know. Thanks for your contribution!
+
+
+
