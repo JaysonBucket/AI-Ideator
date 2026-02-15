@@ -1,9 +1,21 @@
 ## RELEASE NOTES
 
-#### v2.1
-Release date: 15.02.2026
-Release version: v2.1
+## v2.2 - 15.02.2026
+This update delivers a fully refactored, language‑agnostic Agent Instruction YAML designed for reliable use in Microsoft Agent Builder. The configuration is streamlined, fully English, and optimized for stability, minimal hallucinations, and complete Excel output consistency.
 
+##### Key Improvements
+- Reworked language logic: agent now responds in any user language, not just EN/DE
+- Cleaned and consolidated YAML structure for stronger LLM adherence
+- Simplified Excel schema with unified Copilot and Missing columns
+- Strengthened grounding, boundary‑checks, and non‑hallucination rules
+- Improved clarity in tooling cascade (M365 → Copilot → Agent Builder → Azure)
+- Full schema and process canvases validated and aligned with final structure
+- Removed redundant or restrictive rules; updated phrasing for universality
+- Reduced verbosity while maintaining full functionality
+- Ensured YAML validity and Agent Builder compatibility
+- Updated language behavior to be fully global and inclusive
+
+## v2.1 - 14.02.2026
 This release introduces major improvements to the Express Mode workflow and the Excel generation framework, enhancing guidance, structure, and user control. The update ensures reliability, full schema coverage, strict grounding to user inputs, and consistent multilingual behavior.
 
 ###### Added
@@ -36,6 +48,6 @@ This release introduces major improvements to the Express Mode workflow and the 
 - Fixed inconsistent field names, column definitions, and structure deviations.
 - Corrected formatting issues that previously caused YAML parsing failures.
 
-#### 13.02.2026 initial commit
+## 13.02.2026 initial commit
 
 
