@@ -1,6 +1,6 @@
 ## RELEASE NOTES
 
-## v2.2 - 15.02.2026
+## v2.3 - 15.02.2026
 This update delivers a fully refactored, language‑agnostic Agent Instruction YAML designed for reliable use in Microsoft Agent Builder. The configuration is streamlined, fully English, and optimized for stability, minimal hallucinations, and complete Excel output consistency.
 
 ##### Key Improvements
