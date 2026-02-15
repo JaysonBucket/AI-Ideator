@@ -3,7 +3,7 @@
 
 Use this agent as your AI partner in crime to turn rough ideas and problems into clear, reusable prompts, workflows, and solutions. This makes our AI usage faster, more reliable, and easier to share so everyone benefits from what we learn.
 <br><br>
-Newly realeased v2.2 improvements: This update delivers a fully refactored, language‑agnostic Agent Instruction YAML designed for reliable use in Microsoft Agent Builder. The configuration is streamlined, fully English, and optimized for stability, minimal hallucinations, and complete Excel output consistency.
+Newly realeased v2.3 improvements: This update delivers a fully refactored, language‑agnostic Agent Instruction YAML designed for reliable use in Microsoft Agent Builder. The configuration is streamlined, fully English, and optimized for stability, minimal hallucinations, and complete Excel output consistency.
 <br><br>
 To set up just copy&paste sourcecode in Agent Builder or use zip file from repository to import in Copilot Studio
 <br><br>
