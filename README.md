@@ -16,7 +16,7 @@ To set up just copy&paste sourcecode in Agent Builder or use zip file from repos
 - and: if worked through the excel in an ideation session, you can continue to work with it with the agent, let it review, add and complete
 - the base framework Excel also is placed in the repository for your use
 <br>
-<img width="565" height="495" alt="image" src="https://github.com/user-attachments/assets/27d43e01-ebd9-4c2c-ba59-27f7c043e466" />
+<img width="609" height="514" alt="image" src="https://github.com/user-attachments/assets/09969f80-a1cb-483d-88e0-174f414a8188" />
 <br>
 <br>  
 
