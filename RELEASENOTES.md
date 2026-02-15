@@ -1,5 +1,12 @@
 ## RELEASE NOTES
 
+## v2.4 - 15.02.2026
+- Added clear Agent Builder vs. Copilot Studio decision logic, including capabilities, limits, and when to choose each.
+- Integrated agent decision flow into the tooling cascade, keeping native → Copilot → Agent → Azure sequencing.
+- Added concise agent discovery questions to guide users toward the right platform.
+- Kept all existing functionality, including full schema, Excel generation, interview modes, and reframing logic.
+- Improved checks for governance, publishing, collaboration, and integrations in agent scenarios.
+
 ## v2.3 - 15.02.2026
 This update delivers a fully refactored, language‑agnostic Agent Instruction YAML designed for reliable use in Microsoft Agent Builder. The configuration is streamlined, fully English, and optimized for stability, minimal hallucinations, and complete Excel output consistency.
 
