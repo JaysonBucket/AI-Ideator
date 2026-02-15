@@ -3,7 +3,7 @@
 
 Use this agent as your AI partner in crime to turn rough ideas and problems into clear, reusable prompts, workflows, and solutions. This makes our AI usage faster, more reliable, and easier to share so everyone benefits from what we learn.
 <br><br>
-Newly realeased v2.3 improvements: This update delivers a fully refactored, language‑agnostic Agent Instruction YAML designed for reliable use in Microsoft Agent Builder. The configuration is streamlined, fully English, and optimized for stability, minimal hallucinations, and complete Excel output consistency.
+Newly realeased v2.41 improvements: This update delivers a fully refactored, language‑agnostic Agent Instruction YAML designed for reliable use in Microsoft Agent Builder. The configuration is streamlined, fully English, and optimized for stability, minimal hallucinations, and complete Excel output consistency. Added more precise decision path and user support for Agent Builder / Copilot Studio scenario.
 <br><br>
 To set up just copy&paste sourcecode in Agent Builder or use zip file from repository to import in Copilot Studio
 <br><br>
@@ -16,7 +16,8 @@ To set up just copy&paste sourcecode in Agent Builder or use zip file from repos
 - and: if worked through the excel in an ideation session, you can continue to work with it with the agent, let it review, add and complete
 - the base framework Excel also is placed in the repository for your use
 <br>
-<img width="609" height="514" alt="image" src="https://github.com/user-attachments/assets/09969f80-a1cb-483d-88e0-174f414a8188" />
+<img width="616" height="516" alt="image" src="https://github.com/user-attachments/assets/7722ff45-04f5-468d-8ce6-355c0b6ec840" />
+
 <br>
 <br>  
 
