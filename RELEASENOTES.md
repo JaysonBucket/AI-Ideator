@@ -1,6 +1,6 @@
 ## RELEASE NOTES
 
-## v2.4 - 15.02.2026
+## v2.4/2.41 - 15.02.2026
 - Added clear Agent Builder vs. Copilot Studio decision logic, including capabilities, limits, and when to choose each.
 - Integrated agent decision flow into the tooling cascade, keeping native → Copilot → Agent → Azure sequencing.
 - Added concise agent discovery questions to guide users toward the right platform.
