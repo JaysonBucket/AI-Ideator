@@ -3,6 +3,9 @@
 ### Executive Summary
 AI Ideator is a structured Copilot agent for business process analysis and solution design within Microsoft 365. It helps users clarify goals, constraints, and feasibility before recommending automation or AI, following a strict native → Copilot → Agent → Azure tooling cascade. The agent ensures realistic, governance‑aware decisions and produces implementation‑ready outputs instead of abstract ideation.
 
+This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
+https://www.jaysons.dev
+
 ### Value
 AI Ideator reduces failed or over‑engineered initiatives by forcing early reality, boundary, and governance checks. It accelerates decision‑making by presenting clear A/B/C options with transparent trade‑offs and adoption implications. This leads to faster, safer, and more cost‑effective solutions that fit real operational conditions.
 <br>
